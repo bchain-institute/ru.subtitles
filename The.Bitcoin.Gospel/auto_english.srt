@@ -1,10 +1,10 @@
 1
 00:00:15,490 --> 00:00:18,020
-so we're standing here at my living room
+So, we're standing here in my living room
 
 2
 00:00:18,020 --> 00:00:20,269
-in a Tokyo Japan and I'm going to show
+in Tokyo, Japan.  And I'm going to show 
 
 3
 00:00:20,269 --> 00:00:22,759
@@ -36,11 +36,11 @@ they're going to see on the screen in a
 
 10
 00:00:35,420 --> 00:00:37,280
-moment we'll be able to claim the 100
+moment.  We'll be able to claim the 100
 
 11
 00:00:37,280 --> 00:00:38,960
-euros worth of bitcoins and there's
+euros worth of Bitcoins and there's
 
 12
 00:00:38,960 --> 00:00:40,579
@@ -52,7 +52,7 @@ or to freeze your account or block it or
 
 14
 00:00:42,410 --> 00:00:44,719
-control it in any way so on the TV here
+control it in any way.  So, on the TV here,
 
 15
 00:00:44,719 --> 00:00:46,280
@@ -60,7 +60,7 @@ we have a Bitcoin address that I've just
 
 16
 00:00:46,280 --> 00:00:48,859
-generated and I have my phone here I'm
+generated.  And I have my phone here.  I'm
 
 17
 00:00:48,859 --> 00:00:50,420
@@ -68,39 +68,41 @@ going to scan the QR code for the
 
 18
 00:00:50,420 --> 00:00:53,000
-Bitcoin address on the TV now I have it
+Bitcoin address on the TV.  Now I have it. 
 
 19
 00:00:53,000 --> 00:00:55,010
-I'm going to send a 100 euros worth of
+I'm going to send 100 euros worth of
 
 20
 00:00:55,010 --> 00:00:56,780
-bitcoins that address so we'll hit send
+
+Bitcoins to that address.  So, we'll hit send
 
 21
 00:00:56,780 --> 00:00:59,449
-and anybody can monitor on blockchain on
+
+and anybody can monitor on Blockchain.info 
 
 22
 00:00:59,449 --> 00:01:01,550
-info the balance of this address there
+the balance of this address.  There
 
 23
 00:01:01,550 --> 00:01:03,829
-it is 100 euros worth of bitcoins just
+it is. 100 euros worth of Bitcoins just
 
 24
 00:01:03,829 --> 00:01:05,239
-arrived at this address so total
+arrived at this address.  So, total 
 
 25
 00:01:05,239 --> 00:01:08,120
-received 100 euros final balance 100
+received 100 euros; final balance, 100
 
 26
 00:01:08,120 --> 00:01:10,520
-euros just like that so on this next
+euros, just like that.  So on this next
 
 27
 00:01:10,520 --> 00:01:12,290
@@ -116,7 +118,7 @@ private key that corresponds with that
 
 30
 00:01:16,310 --> 00:01:18,830
-address we'll be able to claim that
+address will be able to claim that
 
 31
 00:01:18,830 --> 00:01:20,660
@@ -124,67 +126,67 @@ money just by scanning the code that
 
 32
 00:01:20,660 --> 00:01:21,710
-you're about to see on your television
+you're about to see on your television.
 
 33
 00:01:21,710 --> 00:01:23,960
-so if you want to take a look here it
+So, if you want to take a look, here it 
 
 34
 00:01:23,960 --> 00:01:25,850
-comes 100 euros ready for anyone to
+comes, 100 euros ready for anyone to 
 
 35
 00:01:25,850 --> 00:01:28,100
-claim all you have to do is scan this
+claim.  All you have to do is scan this
 
 36
 00:01:28,100 --> 00:01:31,190
-one right here and it's a hundred euros
+one right here.  And it's 100 euros
 
 37
 00:01:31,190 --> 00:01:33,080
-worth of bitcoins as of today by the
+worth of Bitcoins as of today.  By the
 
 38
 00:01:33,080 --> 00:01:34,760
-time you scan it it might be worth even
+time you scan it, it might be worth even 
 
 39
 00:01:34,760 --> 00:01:35,090
-more
+more.
 
 40
 00:01:35,090 --> 00:01:37,370
-so there it is for anyone ready to claim
+So, there it is for anyone ready to claim
 
 41
 00:01:37,370 --> 00:01:39,229
-with their Bitcoin wallet
+with their Bitcoin wallet.
 
 42
 00:01:39,229 --> 00:01:41,990
-okay Holland now you've just seen the
+Okay, Holland, now you've just seen the
 
 43
 00:01:41,990 --> 00:01:44,479
-power of Bitcoin I sent a hundred euros
+power of Bitcoin.  I sent 100 euros
 
 44
 00:01:44,479 --> 00:01:46,189
-worth of Bitcoin from here in Tokyo
+worth of Bitcoin from here in Tokyo 
 
 45
 00:01:46,189 --> 00:01:48,079
-directly to you guys through this camera
+directly to you guys through this camera,
 
 46
 00:01:48,079 --> 00:01:50,450
-through the network through the TV right
+through the network, through the TV right
 
 47
 00:01:50,450 --> 00:01:52,640
-into your home if I had tried to do that
+into your home.  If I had tried to do that —
 
 48
 00:01:52,640 --> 00:01:54,289
@@ -192,39 +194,39 @@ send you the money with a traditional
 
 49
 00:01:54,289 --> 00:01:56,179
-bank it would have taken several days
+bank, it would have taken several days
 
 50
 00:01:56,179 --> 00:01:58,909
-and probably cost 30 euros I just did it
+and probably cost 30 euros.  I just did it
 
 51
 00:01:58,909 --> 00:02:00,950
-right now with Bitcoin instantly
+right now with Bitcoin instantly,
 
 52
 00:02:00,950 --> 00:02:03,590
-basically for free and didn't have to
+basically, for free and didn't have to
 
 53
 00:02:03,590 --> 00:02:05,509
-ask anybody for permission I didn't need
+ask anybody for permission.  I didn't need 
 
 54
 00:02:05,509 --> 00:02:07,100
-a bank I didn't need a government I
+a bank.  I didn't need a government.  
 
 55
 00:02:07,100 --> 00:02:09,019
-didn't need anybody I just needed myself
+I didn't need anybody.  I just needed myself 
 
 56
 00:02:09,019 --> 00:02:11,150
-and you and our smartphones to do it
+and you and our smartphones to do it.  
 
 57
 00:02:11,150 --> 00:02:15,319
-that's the power of Bitcoin this is back
+That's the power of Bitcoin. This is Back
 
 58
 00:02:15,319 --> 00:02:18,140
