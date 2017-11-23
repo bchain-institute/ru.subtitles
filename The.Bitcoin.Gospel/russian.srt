@@ -7,12 +7,10 @@
 
 3
 00:00:20,269 --> 00:00:22,759
-everybody just how amazing Bitcoin is by
-какая это классная штука — Биткоин
+какая это классная штука — Биткоин.
 
 4
 00:00:22,759 --> 00:00:24,679
-sending a hundred euros worth of Bitcoin
 Сейчас я отправлю 100 евро в Биткоинах 
 
 5
@@ -93,12 +91,10 @@ sending a hundred euros worth of Bitcoin
 
 24
 00:01:03,829 --> 00:01:05,239
-arrived at this address.  So, total 
 только что дошли до адреса. Таким образом, 
 
 25
 00:01:05,239 --> 00:01:08,120
-received 100 euros; final balance, 100
 в сумме получено 100 евро, конечный баланс, 100
 
 26
@@ -119,11 +115,10 @@ received 100 euros; final balance, 100
 
 30
 00:01:16,310 --> 00:01:18,830
-address will be able to claim that
 сможет истратить
+
 31
 00:01:18,830 --> 00:01:20,660
-money just by scanning the code that
 эти деньги, только лишь просканировав
 
 32
@@ -184,7 +179,6 @@ money just by scanning the code that
 
 46
 00:01:48,079 --> 00:01:50,450
-through the network, through the TV right
 через сеть, через ТВ 
 
 47
@@ -213,7 +207,6 @@ through the network, through the TV right
 
 53
 00:02:03,590 --> 00:02:05,509
-ask anybody for permission.  I didn't need 
 спрашивать у кого-то разрешения. Мне не понадобился
 
 54
