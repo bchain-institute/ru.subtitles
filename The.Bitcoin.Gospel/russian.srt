@@ -679,15 +679,14 @@
 
 171
 00:07:01,000 --> 00:07:03,179
-so.
 
 172
 00:07:03,179 --> 00:07:06,419
-Мой первый электронный перевод был 
+Моя первая покупка была 
 
 173
 00:07:06,419 --> 00:07:10,479
-На 25 000 $ в 2011 году и цена биткоина 
+на 25 000 $, в 2011 году и цена биткоина 
 
 174
 00:07:10,479 --> 00:07:12,550
@@ -751,1010 +750,1008 @@ so.
 
 189
 00:07:45,879 --> 00:07:49,269
-Roger Ver is the CEO of MemoryDealers.com, 
+Роджер Вер, исполнительный директор MemoryDealers.com,
 
 190
 00:07:49,269 --> 00:07:51,699
-selling secondhand computer 
+продает комплектующие для б/у компьютеров.
 
 191
 00:07:51,699 --> 00:07:54,099
-equipment.  But for a couple of years now 
+Но уже несколько лет
 
 192
-00:07:54,099 --> 00:07:57,149
-he's been known as the Bitcoin Jesus.  In 
+00:07:54,099 --> 00:07:57,149 
+он известен как Биткойн Иисус. 
 
 193
 00:07:57,149 --> 00:08:01,089
-2011, he bought $25,000 worth of Bitcoins 
+В 2011 году он купил биткоинов на 25 000$, 
 
 194
-00:08:01,089 --> 00:08:03,369
-which now have a market value of $6 
+00:08:01,089 --> 00:08:03,369 
+которые сейчас оцениваются рынком в
 
 195
 00:08:03,369 --> 00:08:07,300
-million. And somebody closed my -- 
+6 млн долларов. А, кто-то закрыл мой...
 
 196
 00:08:07,300 --> 00:08:11,589
-I usually leave the trunk or the hood 
+обычно оставляю капот
 
 197
 00:08:11,589 --> 00:08:12,789
-open a little bit so that I can 
+приоткрытым, чтобы я смог присоединить
 
 198
 00:08:12,789 --> 00:08:14,829
-reconnect the battery, but I don't know 
+аккумулятор, не знаю почему
 
 199
 00:08:14,829 --> 00:08:16,419
-how it got closed between now and the 
+кто-то закрыл, пока меня
 
 200
 00:08:16,419 --> 00:08:20,759
-last time I was here.  So, we'll have to --
+не было. Поэтому, нам нужно…
 
 201
 00:08:20,759 --> 00:08:23,229
-Some people think of Bitcoin as sort of 
+Некоторые думают, что Биткоин — это для 
 
 202
 00:08:23,229 --> 00:08:25,269
-an early adopter thing like, "Okay, I'm 
-
+тех кто успел, «Окей, я уже опоздал»
 
 203
 00:08:25,269 --> 00:08:27,279
-already too late" or "So isn't that a 
+или «Не будет ли проблем с Биткоином?»
 
 204
 00:08:27,279 --> 00:08:30,159
-problem for Bitcoin? So, thinking that 
-
+Думать так  «не поздно ли включаться 
 
 205
 00:08:30,159 --> 00:08:32,229
-that it's too late to get involved in 
+в эту систему» всё равно, что думать
 
 206
-00:08:32,229 --> 00:08:33,789
-Bitcoin is like thinking it's too late 
+00:08:32,229 --> 00:08:33,789 
+«не поздно ли начать 
 
 207
-00:08:33,789 --> 00:08:35,380
-to get involved with the internet or too 
+00:08:33,789 --> 00:08:35,380 
+пользоваться интернетом» или 
 
 208
 00:08:35,380 --> 00:08:36,849
-late to get involved with using a cell 
+«не поздно ли использовать
 
 209
-00:08:36,849 --> 00:08:39,099
-phone, like, it's not too late to get 
+00:08:36,849 --> 00:08:39,099 
+ мобильный телефон»?
 
 210
 00:08:39,099 --> 00:08:41,049
-involved with Bitcoin.  Bitcoin is going to 
+Биткоин во многих отношениях 
 
 211
 00:08:41,049 --> 00:08:42,490
-make your life easier in so many ways 
+упростит вашу жизнь, а что касаемо
 
 212
 00:08:42,490 --> 00:08:45,160
-and the price of Bitcoin, too, it's not 
+стоимости Биткоинов —
 
 213
 00:08:45,160 --> 00:08:46,540
-too late for that either.  Bitcoins like 
+тем более не поздно.
 
 214
 00:08:46,540 --> 00:08:48,100
-$270 a 
+Цена Биткоина сейчас 270$.
 
 215
 00:08:48,100 --> 00:08:49,750
-Bitcoin right now, if Bitcoin becomes 
+Если Биткоин станет очень популярен
 
 216
 00:08:49,750 --> 00:08:51,269
-really popular all over the world, 
+во всем мире, то его цена будет
 
 217
 00:08:51,269 --> 00:08:52,990
-Bitcoins are going to have to be worth 
+исчисляться как минимум 
 
 218
 00:08:52,990 --> 00:08:54,790
-at least tens of thousands of dollars a 
+тесятками тысяч долларов,
 
 219
 00:08:54,790 --> 00:08:56,439
-Bitcoin, if not hundreds of thousands of 
+если не сотнями тысяч
 
 220
 00:08:56,439 --> 00:08:58,600
-dollars per Bitcoin.  So, thinking 
+долларов за 1 Биткоин. Поэтому 
 
 221
 00:08:58,600 --> 00:09:00,129
-it's too late to get involved with 
+думать, что слишком поздно
 
 222
 00:09:00,129 --> 00:09:01,750
-Bitcoin is like thinking it's too late 
+включаться — всё равно, что
 
 223
 00:09:01,750 --> 00:09:03,579
-to get involved with using the 
+думать, что поздно начинать  
 
 224
 00:09:03,579 --> 00:09:05,529
-Internet.  Of course, not like it's 
+пользоваться Интернетом. Конечно, 
 
 225
 00:09:05,529 --> 00:09:07,120
-ubiquitous in our lives and Bitcoins 
+Биткоины ещё не повсеместно используются,
 
 226
 00:09:07,120 --> 00:09:08,529
-going to become ubiquitous in our lives 
+но однажды
 
 227
 00:09:08,529 --> 00:09:10,860
-as well. 
+это случится.
 
 228
 00:09:11,850 --> 00:09:14,440
-Perfect money should be, have a limited 
+Совершенные деньги, должны иметь ограниченный
 
 229
 00:09:14,440 --> 00:09:16,150
-supply, that's one of the most important 
+выпуск, это одно из главных 
 
 230
 00:09:16,150 --> 00:09:18,370
-things.  It needs have a limited supply, it 
+условий. Деньги нуждаются в этом условии,
 
 231
 00:09:18,370 --> 00:09:20,770
-needs to be easily recognizable, it needs 
+они должны быть узнаваемы, надежны,
 
 232
 00:09:20,770 --> 00:09:22,570
-to be durable, it needs to be 
+подвижны. 
 
 233
 00:09:22,570 --> 00:09:24,910
-transportable.  Bitcoin has all those 
+В Биткойне выполнены эти
 
 234
 00:09:24,910 --> 00:09:26,350
-things better than any other form of 
+условия лучше, чем в других
 
 235
 00:09:26,350 --> 00:09:27,730
-money the world has ever seen.  And that's 
+известных валютах. Поэтому столкнувшись 
 
 236
 00:09:27,730 --> 00:09:29,260
-why when I noticed Bitcoin for the first 
+в первый раз с Биткойнами я осознал, 
 
 237
 00:09:29,260 --> 00:09:31,630
-time, I realized that it's so incredibly 
+насколько они невероятно полезны,
 
 238
 00:09:31,630 --> 00:09:33,070
-useful as money that people are going to 
+и люди будут ими пользоваться 
 
 239
 00:09:33,070 --> 00:09:35,550
-start using it more and more.
+больше и больше.
 
 240
 00:09:35,550 --> 00:09:38,560
-Roger lives and works in Tokyo. 
+Роджер живет и работает в Токио.
 
 241
 00:09:38,560 --> 00:09:40,690
-He's outsourcing all the work for his 
+Всю работу в своей компании
 
 242
 00:09:40,690 --> 00:09:42,880
-own company so he can spend all his time 
+он передал на аутсорс, поэтому может тратить
 
 243
 00:09:42,880 --> 00:09:49,990
-promoting Bitcoin. So, it's a pretty 
+всё время на раскрутку Биткоин. 
 
 244
 00:09:49,990 --> 00:09:51,820
-exciting time for Bitcoin right now with 
+Сейчас захватывающее время, особенно
 
 245
 00:09:51,820 --> 00:09:54,280
-all the stuff going on in Greek.  I 
+из-за с ситуации в Греции.
 
 246
 00:09:54,280 --> 00:09:56,020
-mean, Bitcoins up about $10 since 
+Имею в виду, что цена Биткойна за день
 
 247
 00:09:56,020 --> 00:09:58,780
-yesterday.  Just since all the news on the 
+подросла на 10$. Из-за новостей
 
 248
 00:09:58,780 --> 00:10:01,930
-Greek referendum vote and just every day 
+о греческом референдуме цена Биткоина
 
 249
 00:10:01,930 --> 00:10:04,240
-Bitcoins so exciting so on.  You can see 
+каждый день растет. Можно видеть
 
 250
 00:10:04,240 --> 00:10:06,130
-lots of trading and everything 
+большое число сделок за
 
 251
 00:10:06,130 --> 00:10:10,270
-just in the last 24 hours there.  I paid 
+последние 24 часа. Я заплатил
 
 252
 00:10:10,270 --> 00:10:11,830
-to put up a billboard in the heart of 
+за установку рекламного щита
 
 253
 00:10:11,830 --> 00:10:13,390
-Silicon Valley right next to one of the 
+прямо в сердце Кремниевой Долины, 
 
 254
 00:10:13,390 --> 00:10:15,880
-busiest expressways that just said we 
+там написан слоган:
 
 255
 00:10:15,880 --> 00:10:18,250
-accept Bitcoin MemoryDealers.com and 
+«Принимаем Биткоины, MemoryDealers.com»,
 
 256
 00:10:18,250 --> 00:10:19,780
-then listed some of the parts that we 
+а затем список комплектующих, 
 
 257
 00:10:19,780 --> 00:10:21,370
-sell.  Then after that I started paying 
+которые мы продаем. Потом, я стал оплачивать
 
 258
 00:10:21,370 --> 00:10:24,520
-for national radio ads in the United 
+рекламу на национальном радио США, 
 
 259
 00:10:24,520 --> 00:10:26,110
-States to run more than a hundred radio 
+чтобы охватить сотни
 
 260
 00:10:26,110 --> 00:10:27,820
-stations across the United States and 
+радиостанций по всей Америке и оплачивал её
 
 261
 00:10:27,820 --> 00:10:32,230
-paid for that for a couple of years. OK 
+несколько лет подряд. Ок.
 
 262
 00:10:32,230 --> 00:10:34,780
-Wave, a popular consumer website in Japan 
+Wave — популярный потребительский сайт
 
 263
 00:10:34,780 --> 00:10:37,420
-will accept Bitcoins from now on at a 
+в Японии — уже принимает к оплате Биткоины.
 
 264
 00:10:37,420 --> 00:10:38,350
-press conference 
+На пресс конференции Роджер Вер помогает
 
 265
 00:10:38,350 --> 00:10:40,140
-Roger Ver helps them spread the word.
+им нести слово Биткойново.
 
 266
 00:10:40,140 --> 00:10:43,690
-But today, one Bitcoin is 35,000 yen. 
+Сегодня Биткоин стоит 35 000 йен. 
 
 267
 00:10:43,690 --> 00:10:45,940
-If Bitcoin becomes popular worldwide 
+Если Биткоины станут популярны во всем мире,
 
 268
 00:10:45,940 --> 00:10:48,760
-then this will definitely be millions, 
+то однозначно цена вырастет до миллионов
 
 269
 00:10:48,760 --> 00:10:51,940
-or tens of millions.
+или десятков миллионов.
 
 270
 00:10:51,940 --> 00:10:56,500
-Roger will now explain things for us. 
+Роджер сейчас нам это объяснит.
 
 271
 00:10:56,500 --> 00:10:58,720
-Roger, can you tell us 
+Роджер, скажи, что такого
 
 272
 00:10:58,720 --> 00:11:02,310
-what's so good about Bitcoin?
+особенного в Биткоинах?
 
 273
 00:11:02,360 --> 00:11:05,010
-Here it says what good money means 
+Здесь сказано, что значит «хорошие деньги»,
 
 274
 00:11:05,010 --> 00:11:06,690
-but Nathalie speaks better Japanese than I do.
+но Натали лучше меня говорит по-японски.
 
 275
 00:11:06,690 --> 00:11:08,760
-This is hard to explain. 
+Это трудно объяснить.
 
 276
 00:11:08,760 --> 00:11:10,800
-Do you want to do it?  
+Хотите это сделать? 
 
 277
 00:11:10,800 --> 00:11:15,660
-On the screen you can see  
+На экране вы видите
 
 278
 00:11:15,660 --> 00:11:17,760
-several functions of Bitcoin.
+несколько особенностей Биткоина.
 
 279
 00:11:17,760 --> 00:11:20,220
-For instance, Bitcoin has no transaction costs.
+К примеру, нет затрат на переводы.
 
 280
-00:11:20,220 --> 00:11:22,170
-It's transparent and very open.  
+00:11:20,220 --> 00:11:22,170 
+Они прозрачны и открыты.
 
 282
-00:11:24,660 --> 00:11:28,200
-The most important  
+00:11:24,660 --> 00:11:28,200 
+Самое важное, что положительные 
 
 283
 00:11:28,200 --> 00:11:31,200
-positive aspects of money
+особенности денег
 
 284
 00:11:31,200 --> 00:11:33,899
-are strengthened even more.
+укрепятся ещё.
 
 285
 00:11:33,899 --> 00:11:36,510
-The money we used before Bitcoin  
+Деньги, которыми мы пользовались 
 
 286
 00:11:36,510 --> 00:11:38,880
-did have a couple
+до Биткоина обладают некоторми
 
 287
 00:11:38,880 --> 00:11:40,560
-of these functions.
+из этих особенностей.
 
 288
-00:11:40,560 --> 00:11:43,770
-But for the first time in history,   
+00:11:40,560 --> 00:11:43,770  
+Но впервые в истории
 
 289
 00:11:43,770 --> 00:11:46,860
-now there is Bitcoin.
+сейчас у нас есть Биткоин.
 
 290
 00:11:46,860 --> 00:11:48,870
-It has the best qualities of money, 
+В нём соединились лучшие качества денег,
 
 291
 00:11:48,870 --> 00:11:52,620
-and it will become the best currency worldwide.
+и он станет лучшей валютой в мире.
 
 292
 00:11:52,620 --> 00:11:59,100
 
 
 293
-00:11:59,100 --> 00:12:03,680
-Who has a Bitcoin wallet?  I'll send you money now.  
+00:11:59,100 --> 00:12:03,680  
+У кого есть Биткоин-кошелек? 
+Я прямо сейчас вышлю вам денег.
 
 294
 00:12:03,680 --> 00:12:04,860
-— Sent.  It already arrived. Quick, huh?
-— Yes, it arrived.
+— Перевел. Уже получены. Быстро, не так ли?
+— Да, уже поступили.
 
 295
 00:12:04,860 --> 00:12:12,390
-— In less than five seconds.
-— Yes, quick.
+— Менее чем за 5 секунд.
+— Да, быстро.
 
 296
 00:12:12,390 --> 00:12:20,070
-If you install the app — did you send it?  
-It arrived, right?  
+— Если вы скачаете приложение.. уже перевели?
+— Уже поступили, да?
 
 297
-00:12:20,070 --> 00:12:22,650
-Now this is worth 1000 yen, but if it takes off worldwide, 
+00:12:20,070 --> 00:12:22,650 
+Сейчас цена биткоина — 1000 йен, 
+если он станет популярным
 
 298
 00:12:22,650 --> 00:12:24,420
-it could become a million.
+цена может увеличиться до миллиона.
 
 299
 00:12:24,420 --> 00:12:26,790
-— Roger, are you giving Bitcoins away?
+— Роджер, ты раздаешь Биткоины?
 
 300
 00:12:26,790 --> 00:12:27,750
 
 301
 00:12:27,750 --> 00:12:29,190
-I'm giving every single 
+— Я даю любому желающему
 
 302
 00:12:29,190 --> 00:12:30,870
-person here 1000 yen worth of Bitcoins
+биткоины на сумму 1000 йен, что 
 
 303
 00:12:30,870 --> 00:12:34,880
-which is like $8 and something cents.
+примерно равно 8$ и несколько центов.
 
 304
 00:12:36,439 --> 00:12:39,319
-Okay.
+— Окей.
 
 305
 00:12:39,319 --> 00:12:41,779
-I've given away thousands of whole 
+Я посылал тысячи биткоинов
 
 306
-00:12:41,779 --> 00:12:43,879
-Bitcoins to just various people on 
+00:12:41,779 --> 00:12:43,879 
+разным людям, присылавшим свои адреса 
 
 307
 00:12:43,879 --> 00:12:45,410
-Facebook that would post their Bitcoin 
+на Фейсбуке, и это было, 
 
 308
 00:12:45,410 --> 00:12:47,389
-address and this is back when Bitcoins 
+когда биткоин стоил пару долларов.
 
 309
-00:12:47,389 --> 00:12:48,589
-were a couple of dollars each.  So, I'm 
+00:12:47,389 --> 00:12:48,589 
+Сейчас я уверен, что эти люди 
 
 310
 00:12:48,589 --> 00:12:49,850
-sure those people are pretty happy at 
+вполне счастливы.
 
 311
 00:12:49,850 --> 00:12:53,569
-this point. How could this digital coin 
+Как же эти электронные деньги, придуманные
 
 312
 00:12:53,569 --> 00:12:56,540
-invented by this Satoshi Nakamoto become 
+Сатоши Накамото, стали в сотни раз
 
 313
 00:12:56,540 --> 00:12:58,670
-hundreds of times more valuable than the 
+более ценными, чем доллар, и почему 
 
 314
 00:12:58,670 --> 00:13:01,579
-dollar and why do enthusiasts like Roger 
+энтузиасты, такие как Роджер Вер,
 
 315
 00:13:01,579 --> 00:13:03,319
-Ver want the world to switch to 
+хотят перевести весь мир
 
 316
 00:13:03,319 --> 00:13:06,350
-Bitcoins. To understand this, we need to 
+на Биткоины. Чтобы это понять, давайте 
 
 317
 00:13:06,350 --> 00:13:08,600
-look at how new Bitcoins are created. A 
+посмотрим, как создаются новые Биткоины.
 
 318
 00:13:08,600 --> 00:13:11,199
-complex process called mining.  
+Этот сложный процесс называется майнинг.
 
 319
 00:13:11,199 --> 00:13:13,370
-Promotional videos make it look as if 
+Промо видео выглядят так, словно
 
 320
 00:13:13,370 --> 00:13:17,810
-everyone can just mine Bitcoins. Millions 
+любой человек может добыть Биткоины.
 
 321
-00:13:17,810 --> 00:13:20,029
-of people all over the world earn real 
+00:13:17,810 --> 00:13:20,029 
+Миллоны людей ежедневно получают
 
 322
 00:13:20,029 --> 00:13:22,850
-crypto money daily.  It's quite simple, 
+эту криптовалюту. Все достаточно просто,
 
 323
-00:13:22,850 --> 00:13:25,120
-just download the special software, 
+00:13:22,850 --> 00:13:25,120 
+скачиваете специальное программное обеспечение,
 
 324
-00:13:25,120 --> 00:13:28,069
-connect to the web, and wait for your 
+00:13:25,120 --> 00:13:28,069 
+подсоединяетесь к интернету, и ждёте
 
 325
 00:13:28,069 --> 00:13:31,910
-profits to roll in.  For mining, you don't 
+когда прибыль начнет расти.
 
 326
 00:13:31,910 --> 00:13:34,370
-need any special knowledge, you can mine 
+Для майнинга не нужны специальные знания,
 
 327
 00:13:34,370 --> 00:13:38,060
-at home, at work, or to café, anywhere 
+это можно делать дома, на работе, в кафе —
 
 328
 00:13:38,060 --> 00:13:40,939
-there's access to the internet.  And, in fact, 
+везде, где есть интернет-доступ. И, кстати, 
 
 329
 00:13:40,939 --> 00:13:43,339
-lots of people have already received a 
+много людей уже получили неплохой
 
 330
 00:13:43,339 --> 00:13:45,829
-good income from mining. It's interesting, 
+доход от майнинга. Как интересно,
 
 331
 00:13:45,829 --> 00:13:49,610
-but does it get us -- Does it get you out of the bed 
+придется ли нам — придётся ли тебе вылезать
 
 332
 00:13:49,610 --> 00:13:51,500
-in the morning, no, it doesn't.  I get it. Huh?
+утром из кровати, нет, не придется. А?
 
 333
 00:13:51,500 --> 00:13:53,360
-It doesn't get you out of the bed in the 
+Не придется вылезать из кровати рано
 
 334
 00:13:53,360 --> 00:13:55,759
-morning. No, it doesn't.  I get it. Marshall 
+утром. Нет, не придется. Я понял. Маршал
 
 335
 00:13:55,759 --> 00:13:57,290
-Long was one of the world's first 
+Лонг был одним из первых в мире 
 
 336
 00:13:57,290 --> 00:14:01,189
-Bitcoin miners.  Now, he's the CEO of Final 
+майнеров. Сейчас он исполнительный директор
 
 337
-00:14:01,189 --> 00:14:03,410
-Hash, a company that professionally mines 
+00:14:01,189 --> 00:14:03,410 
+FinalHash — компании, профессионально 
 
 338
 00:14:03,410 --> 00:14:06,350
-Bitcoins. Okay.  Well, that's fine.  We 
+добывающей Биткоины. Окей. Здорово.
 
 339
 00:14:06,350 --> 00:14:08,660
-can talk about it more in Chicago.  That's 
+Обсудим это подробнее в Чикаго. Договорились.
 
 340
 00:14:08,660 --> 00:14:13,339
-fine, so.
-Thanks.
-Back in the early days, you know, 
+— Спасибо. 
+В начале своего пути, знаете,
 
 341
 00:14:13,339 --> 00:14:15,980
-I get phone calls from my buddies, "Oh, hey 
+мне звонили мои друзья, «О, чувак, 
 
 342
 00:14:15,980 --> 00:14:17,870
-man.  I lost 10,000 Bitcoins because my 
+я потерял 10 000 Биткоинов, потому что
 
 343
 00:14:17,870 --> 00:14:20,480
-computer blew up," right.  Back then one 
+мой компьютер подвис». На тот момент
 
 344
 00:14:20,480 --> 00:14:23,089
-Bitcoin was less than a penny, right.  So, 
+Биткоин стоил меньше одного цента.
 
 345
 00:14:23,089 --> 00:14:25,430
-nobody care, they lost $10.  I don't care, 
+Понимаете, никому не было дела, что
 
 346
 00:14:25,430 --> 00:14:27,860
-right.  Now, 10,000 Bitcoins, that's 
+они потеряли 10 долларов. Сейчас
 
 347
 00:14:27,860 --> 00:14:29,779
-$5 million.  That's a big 
+10 000 Биткоинов стоят 5 миллионов долларов.
+
 
 348
 00:14:29,779 --> 00:14:33,050
-deal, right.  So now it's interesting to 
+Это совершенно другие деньги, правильно?
 
 349
 00:14:33,050 --> 00:14:34,790
-see how the industry has changed.  There 
+И интересно заметить, 
+как изменилась эта индустрия.
 
 350
 00:14:34,790 --> 00:14:36,800
-wasn't YouTube videos and all these nice 
+Тогда не было каналов на Ютюбе, где
 
 351
 00:14:36,800 --> 00:14:39,800
-things to show you how to mine, so it 
+учили как майнить, и у меня заняло 
 
 352
 00:14:39,800 --> 00:14:41,269
-took me about three weeks to hook up 
+около трёх недель, чтобы подключить
 
 353
-00:14:41,269 --> 00:14:43,459
-computer up to figure out how to do this 
+00:14:41,269 --> 00:14:43,459 
+к этому всему компьютер и научиться
 
 354
 00:14:43,459 --> 00:14:45,079
-mining.  And back in the good 
+майнить. В те дни
 
 355
 00:14:45,079 --> 00:14:46,519
-days, that you could take a laptop like 
+можно было взять вот такой ноутбук
 
 356
 00:14:46,519 --> 00:14:48,339
-this and 
+и намайнить может 100 или
 
 357
 00:14:48,339 --> 00:14:50,889
-you could mine maybe 100 or 200 
+200 монет в день.
 
 358
 00:14:50,889 --> 00:14:54,370
-coins in a day.  When summer time 
+Когда лето пришло в Хьюстон,
 
 359
 00:14:54,370 --> 00:14:57,370
-in Houston came, my wife was like, "This AC 
+жена сказала: «слушай,
 
 360
-00:14:57,370 --> 00:15:01,360
-has been on for 24 hours.  It's really hot.  
+00:14:57,370 --> 00:15:01,360  
+кондиционер проработал сутки. 
+Но здесь очень жарко.
 
 361
 00:15:01,360 --> 00:15:03,610
-What you're doing up there?"  I said, "Oh, 
+Чем ты занимался?» Я ответил: 
 
 362
 00:15:03,610 --> 00:15:05,199
-you know, I'm just running some computers." 
+«Знаешь, здесь работали несколько
+компьютеров одновременно».
 
 363
 00:15:05,199 --> 00:15:06,370
-And she walks up there and you 
+Когда она увидела
 
 364
 00:15:06,370 --> 00:15:08,529
-see 50 graphics cards all running at the 
+50 видеокарт, работающих одновременно
 
 365
 00:15:08,529 --> 00:15:10,689
-same time and it's very hot.  She's like, 
+ей тоже стало жарко.
 
 366
 00:15:10,689 --> 00:15:12,639
-"Okay, you got to get out of 
+«Окей, тебе надо отсюда выбираться.
 
 367
 00:15:12,639 --> 00:15:14,350
-here. You got to figure something else 
+Тебе нужно отвлечься, потому что
 
 368
 00:15:14,350 --> 00:15:17,019
-out because it is too hot." Hey, what's up Nerd 
+тут жара». Эй, привет Нерд Кейвс и Фанаты?
 
 369
 00:15:17,019 --> 00:15:18,370
-Caves & Fans?  Jerry's here AKA 
+Здесь Джерри по прозвищу 
 
 370
 00:15:18,370 --> 00:15:20,350
-Barnacules.  I'm here with Marshall Long 
+Барнакула. Здесь со мной Маршалл Лонг 
 
 371
 00:15:20,350 --> 00:15:23,499
-from @FinalHash.  Now we're out here 
+из FinalHash. И мы здесь, чтобы
 
 372
 00:15:23,499 --> 00:15:25,809
-and I would say what's going to be the 
+создать самой большой проект по
 
 373
 00:15:25,809 --> 00:15:28,569
-largest Bitcoin mine in North America.  
+майнингу Биткоинов в Северной Америке.
 
 374
 00:15:28,569 --> 00:15:31,329
-And it's realistically an actual mining 
+Это на самом деле реальная операция
 
 375
-00:15:31,329 --> 00:15:32,589
-operation like you can pretty much 
+00:15:31,329 --> 00:15:32,589 
+по майнингу и вы сможете увидеть всё,
 
 376
 00:15:32,589 --> 00:15:33,819
-attribute everything that's going on 
+что здесь будет происходить.
 
 377
 00:15:33,819 --> 00:15:35,740
-here.
-— It's a gold mine.
-— So, it's like, a real gold mining 
+— Это золотой рудник.
+— На самом деле добыча
 
 378
 00:15:35,740 --> 00:15:36,939
-operation. It's like you have heavy 
+золота. У нас есть мощное 
 
 379
 00:15:36,939 --> 00:15:39,220
-equipment.  You have cost.  You have fuel cost.
+оборудование. У нас есть затраты. 
+Затраты на энергию.
 
 380
 00:15:39,220 --> 00:15:41,649
-— Yeah.
-— And you have recovery.
-— Everything.
+— Да.
+— И средства восстановления.
+— Всё верно.
 
 381
 00:15:41,649 --> 00:15:43,360
-That you then go and sell and turn into 
+И всё это мы продадим и превратим
 
 382
 00:15:43,360 --> 00:15:46,079
-real money.
-That's right.
+в реальные деньги. 
+— Всё правильно.
 
 383
 00:15:51,600 --> 00:15:53,970
-Okay.  How many of these machines are in 
+Окей. Сколько здесь этих аппаратов?
 
 384
-00:15:53,970 --> 00:15:59,280
-here?  You got S4s, S5s every day.  
+00:15:53,970 --> 00:15:59,280 
+Ты получаешь S4 и S5 каждый день.
 
 385
 00:15:59,280 --> 00:16:02,810
-Actually, this looks like mostly S4 is on.
-
-Unidentified male:    Mostly S4s in here.
+— На самом деле, кажется, что здесь в основном S4.
+— В основном S4 и есть.
 
 386
 00:16:04,920 --> 00:16:07,440
-This is literally the loudest place ever.  It's 
+Это буквально самое шумное место из всех.
 
 387
-00:16:07,440 --> 00:16:10,339
-like being in a wind 
-
-
-tunnel.  Got air bullet through the top.  Move your head around and these things are all blowing out massive air.  Now, the 
+Это как стоять в аэродинамической трубе.
+Выдуваем вверх. Эти штуки выбрасывают потоки воздуха
 
 388
 00:16:15,100 --> 00:16:18,230
-cooling in here is so efficient.  And if 
+и охлаждение здесь очень эффективно. Если 
 
 389
 00:16:18,230 --> 00:16:20,000
-you put your hand back here behind the 
+просунешь руку за эти юниты, 
 
 390
 00:16:20,000 --> 00:16:21,770
-units where they're drawing air, it's 
+то почувствуешь сильный холод.
 
 391
 00:16:21,770 --> 00:16:24,710
-freezing cold.  It is nice ice-cold air 
+Здесь входит ледяной воздух.
 
 392
 00:16:24,710 --> 00:16:26,690
-coming in here.  You put your hand in the 
+Если приложить руку к передней части
 
 393
 00:16:26,690 --> 00:16:27,840
-front down the center, 
+по центру, то там 
 
 394
 00:16:27,840 --> 00:16:35,240
-it is burning, burning hot. 
-
-
-So, if you're asking yourself, is Bitcoin mining profitable on this scale?  Hell, yes, it is.
+невероятно печёт, очень жарко.
+Подумай, выгодно ли майнить в таком масштабе?
+Чёрт, конечно, да.
 
 395
 00:16:35,600 --> 00:16:39,200
-A Bitcoin is the reward for solving 
+Биткоин — это вознаграждение за решение
 
 396
 00:16:39,200 --> 00:16:42,260
-complex mathematical puzzles and Bitcoin 
+сложных математических задач
 
 397
 00:16:42,260 --> 00:16:44,600
-miners let their computers work day and 
+и майнеры заставляют свои компьютеры работать
 
 398
 00:16:44,600 --> 00:16:47,540
-night to complete these tasks.  All the 
+круглосуточно, чтобы решить эти задачи.
 
 399
 00:16:47,540 --> 00:16:49,700
-Bitcoin users in the world are connected 
+Пользователи Биткоина во всём мире 
 
 400
 00:16:49,700 --> 00:16:52,490
-and together they constitute a network 
+соединены вместе в одну сеть, 
 
 401
 00:16:52,490 --> 00:16:54,920
-that processes and checks all Bitcoin 
-
+ в которой происходят и проверяются 
 402
 00:16:54,920 --> 00:16:57,080
-transactions in a public ledger called 
+все транзакции, попадающие в общий реестр — 
 
 403
 00:16:57,080 --> 00:16:59,510
-the Blockchain and Satoshi Nakamoto 
+блокчейн. И Сатоши Накамото
 
 404
 00:16:59,510 --> 00:17:01,850
-designed it in such a way that users can 
+ создал её таким образом,
 
 405
 00:17:01,850 --> 00:17:03,950
-create a free and anonymous Bitcoin 
+чтобы пользователи могли свободно и 
 
 406
 00:17:03,950 --> 00:17:06,849
-account number, a so-called Wallet.  
+и анонимно создавать цифровые счета — кошельки.
 
 407
 00:17:06,849 --> 00:17:09,410
-Satoshi's invention eliminates the need 
+Изобретение Сатоши упразднило
 
 408
 00:17:09,410 --> 00:17:12,050
-for a central bank because all the users 
+необходимость в центральном банке, потому что
 
 409
 00:17:12,050 --> 00:17:15,980
-together are the bank.  But early Bitcoin 
+все пользователи вместе и есть банк. Конечно
 
 410
 00:17:15,980 --> 00:17:18,859
-users had no idea how big Bitcoin and 
+в начале пользователи и не подозревали
 
 411
 00:17:18,859 --> 00:17:21,619
-the Blockchain would become. I think 
+насколько вырастут и биткоин, и блокчейн.
 
 412
 00:17:21,619 --> 00:17:23,780
-sometime in spring of 2010, I could be 
+Мне кажется, что весной 2010, могу ошибиться
 
 413
 00:17:23,780 --> 00:17:25,900
-wrong on the exact dates.  But basically, 
-
+с точными датами, кто-то прислал запрос,
+ 
 414
 00:17:25,900 --> 00:17:28,760
-someone put out a request, saying "Hey, I'd 
-
+«Эй, я бы 
+ 
 415
 00:17:28,760 --> 00:17:30,770
-like to buy something with Bitcoin.  Will 
+хотел купить что-то за Биткоины. 
 
 416
 00:17:30,770 --> 00:17:33,440
-anyone buy me a pizza?"  And I believe 
+Кто-нибудь купит мне пиццу?»  И 
 
 417
-00:17:33,440 --> 00:17:36,170
-someone here in England bought the 
+00:17:33,440 --> 00:17:36,170 
+кто-то здесь в Англии купил
 
 418
 00:17:36,170 --> 00:17:39,320
-person in Florida a pizza for 10,000 
+человеку во Флориде пиццу за примерно 
 
 419
-00:17:39,320 --> 00:17:41,210
-or something Bitcoins and maybe 
+00:17:39,320 --> 00:17:41,210 
+10 000 Биткоинов.
 
 420
 00:17:41,210 --> 00:17:43,520
-worth a very large sum of money 
+Это большая сумма денег по нынешним временам.
 
 421
 00:17:43,520 --> 00:17:47,290
-today.  And that was the first Bitcoin 
+И это был первый факт коммерческого
 
 422
 00:17:47,290 --> 00:17:51,440
-commercial transaction. Garrick Hileman, 
+использования Биткоинов. Гаррик Хилеман,
 
 423
 00:17:51,440 --> 00:17:53,780
-an economist at the London School of 
+экономист Лондонской Школы Экономики,
 
 424
 00:17:53,780 --> 00:17:56,150
-Economics, was one of the first scholars 
+был первым ученым, кто стал изучать
 
 425
 00:17:56,150 --> 00:17:58,580
-to study Bitcoin and the Blockchain as a 
+Биткоины и Блокчейн как серьезную 
 
 426
 00:17:58,580 --> 00:18:03,200
-serious monetary system. As a scholar, I 
+денежную систему. 
+— Как ученый, вы уже сталкивались
 
 427
 00:18:03,200 --> 00:18:04,730
-think you should have labeled it or was this something 
+с подобным, или это совершенно новая для Вас тема?
 
 428
 00:18:04,730 --> 00:18:06,320
-totally new to you? It looked very 
+— Для меня, всё это выглядело необычно,
 
 429
 00:18:06,320 --> 00:18:07,850
-different to me.  I mean, as soon as I 
+как только я услышал 
 
 430
 00:18:07,850 --> 00:18:09,530
-heard the word decentralized and the 
+слово «децентрализация» и узнал, 
 
 431
-00:18:09,530 --> 00:18:11,780
-fact there was a network powering this 
+что валюта поддерживается сетью,
 
 432
 00:18:11,780 --> 00:18:13,880
-currency rather than a central issuer, 
+а не эмиссионным центром,
 
 433
 00:18:13,880 --> 00:18:16,400
-that immediately captured my interest as 
+всё это сразу привлекло мой интерес,
 
 434
 00:18:16,400 --> 00:18:18,170
-something quite different based on what 
+что-то совершенно иное, базирующееся 
 
 435
 00:18:18,170 --> 00:18:19,550
-little I knew about alternative 
+на том, о чём я знал немного. А именно
 
 436
 00:18:19,550 --> 00:18:21,890
 currencies at that time.  What it meant 
+об альтернативных валютах. 
 
 437
 00:18:21,890 --> 00:18:23,900
