@@ -1751,537 +1751,551 @@ FinalHash — компании, профессионально
 
 436
 00:18:19,550 --> 00:18:21,890
-currencies at that time.  What it meant 
-об альтернативных валютах. 
+об альтернативных валютах. Что это значит
 
 437
 00:18:21,890 --> 00:18:23,900
-for people who are libertarians in 
+для людей, придерживающихся либертарианства?
 
 438
 00:18:23,900 --> 00:18:26,420
-particular is that the government 
+Только то, что государство не придет
 
 439
 00:18:26,420 --> 00:18:28,160
-couldn't come in and shutdown a server 
+и не выключит как сервер,
+не уничтожит биткоины,
 
 440
 00:18:28,160 --> 00:18:30,530
-and end Bitcoin, it would have to shut 
+ведь тогда придётся 
+отключить весь интернет и
 
 441
 00:18:30,530 --> 00:18:32,990
-down the entire internet or turn off the 
+вырубить электричество, 
 
 442
 00:18:32,990 --> 00:18:35,750
-electricity grid to stop Bitcoin.  And 
+чтобы остановить систему.
 
 443
 00:18:35,750 --> 00:18:38,210
-so that was really attractive to 
+И именно этот факт привлёк
 
 444
 00:18:38,210 --> 00:18:40,040
-people who are worried about these types 
+людей, которых это беспокоило.
 
 445
 00:18:40,040 --> 00:18:43,580
-of things. Many of the early Bitcoin 
+Многие из первых энтузиастов
 
 446
 00:18:43,580 --> 00:18:45,950
-enthusiasts were libertarians who saw 
+Биткойн были либертарианцами
 
 447
 00:18:45,950 --> 00:18:46,960
-Bitcoin 
+и видели в Биткойн средство
 
 448
 00:18:46,960 --> 00:18:48,730
-as the ultimate remedy for state 
+для внедрение в дела государства.
 
 449
 00:18:48,730 --> 00:18:51,039
-intervention.  This was also what 
+Это также привлекло
 
 450
 00:18:51,039 --> 00:18:53,770
-attracted Roger Ver to Bitcoin.  In his 
+Роджера Вера. В свои 20 с небольшим лет
 
 451
 00:18:53,770 --> 00:18:56,110
-early 20s, he was a candidate for the 
+он был кандидатом в Либертарианскую Партию
 
 452
 00:18:56,110 --> 00:18:59,169
-Libertarian Party in California.  But 
+Калифорнии. Но во время его 
+предвыборной кампании,
 
 453
-00:18:59,169 --> 00:19:01,330
-during his campaign, he was sentenced to 
+00:18:59,169 --> 00:19:01,330 
+он был приговорен к 10 месяцам тюрьмы за
 
 454
 00:19:01,330 --> 00:19:02,890
-10 months in prison for trafficking 
+нелегальную торговлю фейерверками.
 
 455
 00:19:02,890 --> 00:19:06,279
-illegal fireworks.  According to him, this 
+По его словам,
 
 456
 00:19:06,279 --> 00:19:08,590
-was a political case brought by people 
+это был политический подлог
 
 457
-00:19:08,590 --> 00:19:14,350
-who opposed his ideas. I have a two 
+00:19:08,590 --> 00:19:14,350 
+со стороны его противников. 
+— У меня есть
 
 458
 00:19:14,350 --> 00:19:16,630
-Bitcoin related gears.  I have the Bitcoin.
+два взаимосвязанных сайта. Один —
 
 459
 00:19:16,630 --> 00:19:19,080
-org, 
+Bitcoin.org, 
 
 460
 00:19:19,820 --> 00:19:22,340
-and I have the Blockchain.info, 
+второй — blockchain.info,
 
 461
 00:19:22,340 --> 00:19:27,200
-Bitcoin Blockchain logo.
-— Do you think it was a 
+это логотип.
+— Считаете, это был чисто
 
 462
 00:19:27,200 --> 00:19:28,910
-political case?
-— There's no doubt in my 
+политический случай? 
+— У меня нет в этом сомнений,
 
 463
 00:19:28,910 --> 00:19:31,070
-mind, whatsoever.  And, in fact, even at one 
+и, кстати, на одном из досудебных заседаний
 
 464
 00:19:31,070 --> 00:19:33,350
-of the pre-trial conference things with 
+присутствовали представители 
+Бюро алкоголя, табака,
 
 465
-00:19:33,350 --> 00:19:35,600
-the ATF agents, my attorney and the U.S. 
+00:19:33,350 --> 00:19:35,600 
+огнестрельного оружия и 
+взрывчатых веществ (АТО), мой адвокат и
 
 466
 00:19:35,600 --> 00:19:37,550
-attorney.  My attorney was saying "Hey, these 
+прокурор. Мой адвокат говорил 
+«Эй, послушайте,
 
 467
 00:19:37,550 --> 00:19:39,110
-are store-bought firecrackers we sold on 
+это купленные нами фейерверки,
+мы продаем их на 
 
 468
 00:19:39,110 --> 00:19:40,940
-eBay.  We can pay a fine.  Do some 
+eBay. Мы можем заплатить штраф.
 
 469
 00:19:40,940 --> 00:19:42,320
-community service and you're done with this."  
+Сделать необходимые операции и
+всё дело решено».
 
 470
 00:19:42,320 --> 00:19:44,090
-There's no reason to destroy my life 
+Нет причин портить мне жизнь,
 
 471
 00:19:44,090 --> 00:19:45,500
-over and send me to prison and make me 
+сажая в тюрьму и делая из меня преступника.
 
 472
 00:19:45,500 --> 00:19:47,270
-a felon.  And the U.S. attorney at that 
+Прокурор на это покивал головой, 
 
 473
-00:19:47,270 --> 00:19:48,350
-point was kind of nodding his head like 
+00:19:47,270 --> 00:19:48,350 
+мол, ваши аргументы звучат 
 
 474
 00:19:48,350 --> 00:19:49,730
-that sounds reasonable.  The ATF agent 
+разумно. Представитель АТО буквально 
 
 475
 00:19:49,730 --> 00:19:51,920
-literally pounded his hand on the table 
+ударил рукой по столу и крикнул,
 
 476
 00:19:51,920 --> 00:19:53,570
-and shouted, "But you didn't hear the 
+«Но вы не слышали, что он говорил», это и 
 
 477
 00:19:53,570 --> 00:19:55,790
-things that he said," which I think summed 
+был конец. 
 
 478
 00:19:55,790 --> 00:19:56,900
-up very clearly.  They weren't mad about 
+Они злились не на то, что я сделал.
 
 479
 00:19:56,900 --> 00:19:58,610
-anything that I had done.  They're mad 
+Они злились на то, что я говорил, на идеи,
 
 480
-00:19:58,610 --> 00:20:00,380
-about the things that I had said because 
+00:19:58,610 --> 00:20:00,380 
+которые я распространял, именно они 
 
 481
 00:20:00,380 --> 00:20:02,140
-the ideas that I'm trying to spread are 
+вызвали взрыв.
 
 482
 00:20:02,140 --> 00:20:06,170
-subversive to the state.  I did 10 months 
+Я провел 10 месяцев в федеральной 
 
 483
 00:20:06,170 --> 00:20:08,870
-in federal prison and I was scared of 
+тюрьме и боялся Правительства
 
 484
 00:20:08,870 --> 00:20:10,670
-the U.S. government.  The moment I was 
+США. Как только мне разрешили покинуть
 
 485
 00:20:10,670 --> 00:20:12,350
-allowed to leave the U.S., I left.  And I 
+территорию США, я это сделал. И с тех пор 
 
 486
 00:20:12,350 --> 00:20:14,870
-haven't lived there ever since.  And they 
+там не живу. Но есть так называемый налог на
 
 487
 00:20:14,870 --> 00:20:16,340
-have what's called the Exit Tax.  So, at the 
+выезд. Как только ты 
 
 488
 00:20:16,340 --> 00:20:17,720
-time you announced you're a United States 
+становишься гражданином США,  
 
 489
 00:20:17,720 --> 00:20:20,060
-citizen, they tax you on your entire net 
+они облагают тебя и все твои доходы 
 
 490
 00:20:20,060 --> 00:20:21,800
-worth that capital gains tax rates and 
+этим налогом
 
 491
 00:20:21,800 --> 00:20:23,060
-you have to pay them that money 
+и ты вынужден платить эти деньги,
 
 492
 00:20:23,060 --> 00:20:25,430
-otherwise they'll probably either send 
+иначе тебя или посадят в тюрьму
 
 493
 00:20:25,430 --> 00:20:26,870
-you to jail or at the very least not 
+или не разрешат 
 
 494
 00:20:26,870 --> 00:20:28,460
-ever let you back in the country ever 
+въезд обратно в страну.
 
 495
-00:20:28,460 --> 00:20:31,430
-again.  If you think about it, it's not all 
+00:20:28,460 --> 00:20:31,430 
+Если задуматься, то это мало чем отличается 
 
 496
 00:20:31,430 --> 00:20:33,230
-that different than slaves from the 
+от рабовладельческого строя, когда
 
 497
 00:20:33,230 --> 00:20:35,090
-past having to buy their freedom from 
+раб вынужден был покупать 
 
 498
 00:20:35,090 --> 00:20:38,600
-the plantation owner.
-— Money creation by 
+свою свободу у плантатора.
+— Получение денег государством 
 
 499
 00:20:38,600 --> 00:20:40,760
-the state is sort of connected to state 
+как-то связано с государственной 
 
 500
 00:20:40,760 --> 00:20:43,100
-aggression for you, right?
-— In my line of 
+агрессией, да?
+— В моем понимании, если 
 
 501
 00:20:43,100 --> 00:20:44,930
-thinking as if you or I create 
+к примеру вы или я начнем подделывать 
 
 502
-00:20:44,930 --> 00:20:46,640
-counterfeit euros or print euros or 
+00:20:44,930 --> 00:20:46,640 
+евро, доллары или йены, вероятно,
 
 503
 00:20:46,640 --> 00:20:48,770
-dollars or yen, we would go to jail for 
+нас посадят, потому что все это 
 
 504
 00:20:48,770 --> 00:20:50,510
-counterfeiting because it's destructive 
+подрывает экономику. Губит её.
 
 505
 00:20:50,510 --> 00:20:51,980
-to the economy.  By counterfeiting dollars, 
+Когда подделываются доллары,
 
 506
 00:20:51,980 --> 00:20:53,870
-it's stealing from everybody else in the 
+это воровство у всех.
 
 507
 00:20:53,870 --> 00:20:56,330
-economy that has money.  When governments 
+Когда же государства делают тоже самое, 
 
 508
 00:20:56,330 --> 00:20:58,580
-do the exact same thing, it has the exact 
+появляются те же негативные эффекты.
 
 509
 00:20:58,580 --> 00:20:59,900
-same negative effects.  The only 
+Единственная разница в том, что они 
 
 510
 00:20:59,900 --> 00:21:01,250
-difference is they call it fancy names 
+называют это красивыми именами,
 
 511
 00:21:01,250 --> 00:21:03,320
-like quantitative easing or economic 
+такими как «количественное смягчение» 
 
 512
 00:21:03,320 --> 00:21:04,940
-stimulus but it's destructive for the 
+или «экономическое стимулирование», всё это
 
 513
 00:21:04,940 --> 00:21:07,840
-exact same reasons.  
+по тем же причинам несёт
+разрушительные последствия. 
 
 514
-00:21:10,840 --> 00:21:13,730
-My hobby growing up and in high school 
+00:21:10,840 --> 00:21:13,730 
+Моим хобби было изучение экономики,
 
 515
-00:21:13,730 --> 00:21:16,160
-and since has been studying economics.  
+00:21:13,730 --> 00:21:16,160  
+начиная со старших классов, и по сей день.
 
 516
 00:21:16,160 --> 00:21:17,660
-And the more you study economics, the 
+И чем больше изучаешь экономику,
 
 517
 00:21:17,660 --> 00:21:19,310
-more you realize that all these 
+тем лучше понимаешь, что все эти
 
 518
 00:21:19,310 --> 00:21:21,110
-government interventions in the economy 
+вмешательства государства в экономику
 
 519
 00:21:21,110 --> 00:21:23,150
 prevent the world from becoming as 
+лишают мир
 
 520
 00:21:23,150 --> 00:21:24,680
-wealthy and prosperous as it otherwise 
+благосостояния и процветания.
 
 521
 00:21:24,680 --> 00:21:27,260
-would become.  And suddenly now we have 
+И неожиданно у нас появился этот инструмент,
 
 522
 00:21:27,260 --> 00:21:29,570
-this tool that separates money from 
+который отделяет деньги от государства,
 
 523
 00:21:29,570 --> 00:21:31,130
-state like everybody today thinks that 
+для многих это стало как отделение
 
 524
 00:21:31,130 --> 00:21:32,540
-separating church and state.  Yeah, of course, 
+церкви от государства. Конечно, они должны 
 
 525
 00:21:32,540 --> 00:21:33,770
-they should be separated.  But a couple 
+быть разделены. Но пару сотен лет 
 
 526
 00:21:33,770 --> 00:21:35,84
-100 years ago, it was heresy: 
+назад данный факт прозвучал бы как ересь.
 
 527
 00:21:35,840 --> 00:21:37,370
-just hit that church the state should be 
+Очевидно отделение церкви от государства. 
 
 528
 00:21:37,370 --> 00:21:38,930
-separated.  And today, it sounds maybe a 
+А сегодня, отделение денег от государства
 
 529
 00:21:38,930 --> 00:21:40,580
-little bit crazy to say that money and 
+звучит лишь слегка безумно.
 
 530
 00:21:40,580 --> 00:21:42,410
-state should be separated.  But I think in 
+Считаю, что через пару десятилетий
 
 531
 00:21:42,410 --> 00:21:43,640
-another decade or two, people are going 
+люди начнут думать
 
 532
 00:21:43,640 --> 00:21:44,810
 to think, "Oh, what the heck were we 
+«Ну, как мы могли позволить
 
 533
 00:21:44,810 --> 00:21:46,010
-thinking letting governments be in 
+государству управлять деньгами, 
 
 534
 00:21:46,010 --> 00:21:47,840
-charge of money that cost so many 
+это принесло столько проблем, 
 
 535
 00:21:47,840 --> 00:21:49,700
-problems in so many misallocations of 
+нерациональное использование ресурсов по 
 
 536
 00:21:49,700 --> 00:21:51,260
-resources around the world?"  Of course, 
+всему миру». Естественно, Биткоины
 
 537
-00:21:51,260 --> 00:21:55,420
-Bitcoin is better.
-— Okay.  
+00:21:51,260 --> 00:21:55,420 
+круче.
+— Окей.
 
 538
 00:21:56,160 --> 00:21:59,600
-Thank you.
+— Спасибо.
 
 539
 00:21:59,630 --> 00:22:02,400
-Why is the governments and banks 
+Почему нежелательна государственная и банковская
 
 540
 00:22:02,400 --> 00:22:04,830
-monopoly on money creation seen as 
+монополия на выпуск денег?
 
 541
 00:22:04,830 --> 00:22:08,220
-undesirable?  In his whitepaper, Satoshi 
+Сатоши Накамото, к сожалению,
 
 542
 00:22:08,220 --> 00:22:10,590
-Nakamoto didn't express his opinion on 
+не выразил своего мнения 
 
 543
 00:22:10,590 --> 00:22:13,11
-this.  But it does seem that he wanted 
+на этот счёт. Но ясно одно, 
 
 544
 00:22:13,110 --> 00:22:15,240
-Bitcoins to appreciate rather than 
+он хотел повысить ценность Биткоинов, 
 
 545
 00:22:15,240 --> 00:22:19,110
-depreciate unlike money.  He programmed 
+но никак не занизить ценность самих денег.
 
 546
 00:22:19,110 --> 00:22:21,240
-Bitcoin in such a way that there's a 
+Он программно ограничил количество
+Биткоинов 21 миллионом,
 
 547
-00:22:21,240 --> 00:22:23,880
-maximum of 21 million Bitcoins to be 
+00:22:21,240 --> 00:22:23,880 
+больше намайнить невозможно.
 
 548
 00:22:23,880 --> 00:22:27,450
-mined.  Bitcoins weren't meant to resemble 
+Биткоины не предназначались для замены 
 
 549
-00:22:27,450 --> 00:22:31,980
-money but gold.  In November 2013, this 
+00:22:27,450 --> 00:22:31,980 
+денег, только золота. 
+В ноябре 2013 года, 
 
 550
 00:22:31,980 --> 00:22:34,830
-dream became reality when one Bitcoin 
+один Биткоин сравнялся по цене с унцией
 
 551
 00:22:34,830 --> 00:22:40,080
-was worth an ounce of gold.  The Bitcoin 
+золота. Программный код Биткойна ни 
 
 552
 00:22:40,080 --> 00:22:42,830
-code itself has never been hacked.  But in 
+разу не был взломан за всё время. Но в 2014 году, 
 
 553
-2014, the customer data of Mt. Gox, an 
+данные клиентов с онлайн-биржи Mt. Gox,
 
 554
-00:22:46,710 --> 00:22:49,320
-online exchange office, was stolen by 
+00:22:46,710 --> 00:22:49,320 
+были украдены хакерами.
 
 555
 00:22:49,320 --> 00:22:51,480
-hackers causing the Bitcoin exchange 
+Это вызвало стремительное падение 
 
 556
-00:22:51,480 --> 00:22:55,280
-rate to plummet.  
+00:22:51,480 --> 00:22:55,280 
+курса Биткоинов.
 
 557
-00:22:59,050 --> 00:23:01,510
-At the Financial Times in London, 
+00:22:59,050 --> 00:23:01,510 
+Журналистка лондонского Файнэншл Таймс
 
 558
 00:23:01,510 --> 00:23:04,450
-journalist Izabella Kaminska has been 
+Изабелла Каминска, очень тщательно
 
 559
 00:23:04,450 --> 00:23:05,950
-critically following the Bitcoin 
+изучала развитие Биткоина, курсы обмена  
 
 560
 00:23:05,950 --> 00:23:08,23
-exchange rate and community since the 
+и сообщество с самого 
 
 561
 00:23:08,230 --> 00:23:11,410
-very beginning.
-— I've always been a geek 
+начала их появления.
+— Я всегда была фанатом финансового дела
 
 562
-00:23:11,410 --> 00:23:13,570
-about finance and I've always been a 
+00:23:11,410 --> 00:23:13,570 
+и интересовалась работой системы.
 
 563
 00:23:13,570 --> 00:23:16,180
-geek about how the system works.  So, like 
+И конструкция системы 
 
 564
 00:23:16,180 --> 00:23:18,100
-the really boring nuts and bolts, the 
+проста и слаженна, 
+работа винтиков и шестеренок.
 
 565
 00:23:18,100 --> 00:23:21,100
-plumbing of the system.  And I think in 
+И думаю, в 2008 году, впервые 
 
 566
 00:23:21,100 --> 00:23:26,530
-2008, it was the first time we all really 
+нам всем пришлось реально побороться.
 
 567
 0:23:26,530 --> 0:23:28,990
-Система, в том виде,  
+Система, в том виде,
 
 568
 0:23:28,990 --> 0:23:30,970
